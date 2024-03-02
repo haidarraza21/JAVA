@@ -1,4 +1,4 @@
-//Create a program to check is the array is palindrome or not.
+//Create java a program to check is the array is palindrome or not.
 import java.util.Scanner;
 public class ArrayPalindrome {
     public static void main(String[] args) {
