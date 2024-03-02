@@ -1,4 +1,4 @@
-//Create a program to calculate the area of a Triangle. Area of triangle = 1/2*B*H
+//Create java a program to calculate the area of a Triangle. Area of triangle = 1/2*B*H
 import java.util.Scanner;
 public class AreaTriangle {
     public static void main(String[]args){
