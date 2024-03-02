@@ -1,4 +1,4 @@
-//Create a program that takes two numbers and shows result of all arithmetic operator(+,-,*,/,%).
+//Create java a program that takes two numbers and shows result of all arithmetic operator(+,-,*,/,%).
 import java.util.Scanner;
 public class ArithmeticOperator {
     public static void main(String[] args) {
