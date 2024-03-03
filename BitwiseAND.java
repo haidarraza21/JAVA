@@ -1,4 +1,4 @@
-//Create a program that shows bitwise AND of two numbers
+//Create a java program that shows bitwise AND of two numbers
 import java.util.Scanner;
 public class BitwiseAND {
  public static void main(String[] args) {
