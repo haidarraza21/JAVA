@@ -1,4 +1,4 @@
-//Create a program to verify if a number  is palindrome.
+//Create java a program to verify if a number  is palindrome.
 import java.util.Scanner;
 
 public class VerifyPalindromeNumber {
