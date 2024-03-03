@@ -1,4 +1,4 @@
-//Create a program that shows bitwise OR of two numbers.
+//Create a java program that shows bitwise OR of two numbers.
 import java.util.Scanner;
 public class BitwiseOR {
     public static void main(String[] args) {
