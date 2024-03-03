@@ -1,4 +1,4 @@
-//Create a program to check if a number is an Armstrong number.
+//Create a java program to check if a number is an Armstrong number.
 import java.util.Scanner;
 
 public class CheckArmstrongNumber {
