@@ -1,4 +1,4 @@
-//Create a program that shows bitwise XOR of two numbers.
+//Create a java program that shows bitwise XOR of two numbers.
 import java.util.Scanner;
 public class BitwiseXOR {
   public static void main(String[] args) {
