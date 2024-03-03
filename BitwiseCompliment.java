@@ -1,4 +1,4 @@
-//Create a program that shows bitwise compliment of a number.
+//Create a java program that shows bitwise compliment of a number.
 import java.util.Scanner;
 public class BitwiseCompliment {
   public static void main(String[] args) {
