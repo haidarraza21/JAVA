@@ -1,4 +1,4 @@
-//Create a program to calculate Compound interest. Compound interest = P(1+R/100).
+//Create a java program to calculate Compound interest. Compound interest = P(1+R/100).
 import java.util.Scanner;
 public class CompoundInterest {
     public static void main(String[] args) {
