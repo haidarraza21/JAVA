@@ -1,4 +1,4 @@
-//Create a program to return a new array deleting a specific element.
+//Create a java program to return a new array deleting a specific element.
 import java.util.Scanner;
 public class DeletingArray {
     public static void main(String[] args) {
