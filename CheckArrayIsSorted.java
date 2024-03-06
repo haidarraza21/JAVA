@@ -1,4 +1,4 @@
-//Create a program to check iif the given array is sorted.
+//Create a java program to check iif the given array is sorted.
 import java.util.Scanner;
 public class CheckArrayIsSorted {
     public static void main(String[] args) {
