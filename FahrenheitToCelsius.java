@@ -1,4 +1,4 @@
-//Create a program to convert Fahrenheit to Celsius. C=(F-32)*5/9.
+//Create a java program to convert Fahrenheit to Celsius. C=(F-32)*5/9.
 import java.util.Scanner;
 public class FahrenheitToCelsius {
      public static void main(String[] args) {
