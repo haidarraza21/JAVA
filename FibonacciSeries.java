@@ -1,4 +1,4 @@
-//Create a program to print the Fibonacci series up to certain number.
+//Create a java  program to print the Fibonacci series up to certain number.
 import java.util.Scanner;
 
 public class FibonacciSeries {
