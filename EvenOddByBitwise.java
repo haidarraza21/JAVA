@@ -1,5 +1,5 @@
 
-//Create a program tto check if a given number is even or odd using bitwise operators.
+//Create a java program tto check if a given number is even or odd using bitwise operators.
 import java.util.Scanner;
 
 public class EvenOddByBitwise {
