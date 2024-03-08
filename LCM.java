@@ -1,4 +1,4 @@
-//Create a program to find the least Common Multiple (LCM) of the numbers
+//Create a java program to find the least Common Multiple (LCM) of the numbers
 import java.util.Scanner;
 public class LCM {
     public static void main(String[] args) {
