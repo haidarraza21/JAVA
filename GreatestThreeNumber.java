@@ -1,4 +1,4 @@
-//Create a program that determine yhe greatest of the three numbers.
+//Create a java program that determine yhe greatest of the three numbers.
 import java.util.Scanner;
 public class GreatestThreeNumber {
     public static void main(String[] args) {
