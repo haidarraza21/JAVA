@@ -1,4 +1,4 @@
-/*Create a program to calculate Perimeter of rectangle
+/*Create a java program to calculate Perimeter of rectangle
 Perimeter of rectangle ABCD = A+B+C+D*/
 import java.util.Scanner;
 public class PerimeterRectangle {
