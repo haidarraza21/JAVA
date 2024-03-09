@@ -1,4 +1,4 @@
-//Develop a program that prints the multiplication table for a given number.
+//Develop a java program that prints the multiplication table for a given number.
 import java.util.Scanner;
 public class MultiplicationTable {
      public static void main(String[] args) {
