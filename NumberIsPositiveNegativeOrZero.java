@@ -1,4 +1,4 @@
-// Create a program that determines if a number is positive, negative pr zero.
+// Create a java program that determines if a number is positive, negative pr zero.
 import java.util.Scanner;
 public class NumberIsPositiveNegativeOrZero {
      public static void main(String[] args) {
