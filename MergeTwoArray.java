@@ -1,4 +1,4 @@
-//Create a program to merge two sorted arrays.
+//Create a java program to merge two sorted arrays.
 public class MergeTwoArray {
     public static void main(String[] args) {
         int[] arr1 = ArrayUtility.inputArray();
