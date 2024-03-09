@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-//Create a program to find number of occurrences of an element in an array.
+//Create a java program to find number of occurrences of an element in an array.
 public class NumberOfOccurrenceArray {
     public static void main(String[] args) {
         System.out.println("Welcome to Array occurrences");
