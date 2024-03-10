@@ -1,4 +1,4 @@
-//Create a program to reverse the digits of a number.
+//Create a java program to reverse the digits of a number.
 import java.util.Scanner;
 
 public class ReverseDigits {
