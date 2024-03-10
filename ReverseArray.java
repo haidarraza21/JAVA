@@ -1,4 +1,4 @@
-//Create a program to reverse an array.
+//Create a java program to reverse an array.
 public class ReverseArray {
     public static void main(String[] args) {
         int [] numArr = ArrayUtility.inputArray();
