@@ -1,4 +1,4 @@
-//Create a program to calculate product of two floating points numbers.
+//Create a java program to calculate product of two floating points numbers.
 import java.util.Scanner;
 public class ProductFloatingNumber {
     public static void main(String[]args){
