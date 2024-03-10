@@ -1,4 +1,4 @@
-//Create a program that print patterns
+//Create a java program that print patterns
 import java.util.Scanner;
 
 public class PrintPatterns {
